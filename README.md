@@ -19,3 +19,5 @@ $ go test -v
 - [ ] debug flag
 - [ ] if arg is - then use stdin or stdout so we can put tee in the middle to dump traffic
 - [ ] optional port in args
+- [ ] add some kind of client id
+- [ ] tee option
